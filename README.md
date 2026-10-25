@@ -40,7 +40,16 @@
 - **SharePoint intranets** — SPFx web parts for events, galleries, recognition, departments
 - **Enterprise APIs** — .NET Web APIs with Active Directory / Kerberos authentication
 
-> Most of my client work is under NDA, so it lives in private repositories. My own open-source samples are pinned below as I publish them.
+> Most of my client work is under NDA, so it lives in private repositories.
+
+---
+
+### 🚧 Currently Building
+
+Open-source sample projects that show the same kind of work I deliver for clients:
+
+- **Approval Dashboard** (React + Vite + TypeScript): leave and expense requests with multi-level approval (Employee → Manager → HR), role-based screens and a status timeline
+- **Document Management System** (Next.js + TypeScript + Prisma): login, document upload, approval workflow, audit trail and search
 
 ---
 
