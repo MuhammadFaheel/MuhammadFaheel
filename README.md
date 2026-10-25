@@ -44,15 +44,6 @@
 
 ---
 
-### 🚧 Currently Building
-
-Open-source sample projects that show the same kind of work I deliver for clients:
-
-- **Approval Dashboard** (React + Vite + TypeScript): leave and expense requests with multi-level approval (Employee → Manager → HR), role-based screens and a status timeline
-- **Document Management System** (Next.js + TypeScript + Prisma): login, document upload, approval workflow, audit trail and search
-
----
-
 ### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-muhammad-faheel-414b36198)
